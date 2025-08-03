@@ -1,7 +1,5 @@
 # CarDealerTemplate
 
-![CarDealerTemplate Banner](https://user-images.githubusercontent.com/1031157718/placeholder-banner.png)
-
 ## О проекте
 
 **CarDealerTemplate** — это шаблон для автосалона, выполненный в виде чистой, семантичной вёрстки без использования каких-либо фреймворков. Проект создан для демонстрации макета сайта автосалона, легко настраивается и может служить отличной основой для дальнейшей разработки.
@@ -35,7 +33,6 @@
 
 ## Ссылки
 
-- [Demo](#) *(добавьте ссылку на демо, если она есть)*
 - [Issues](https://github.com/webBeaver777/CarDealerTemplate/issues)
 - [Pull Requests](https://github.com/webBeaver777/CarDealerTemplate/pulls)
 
